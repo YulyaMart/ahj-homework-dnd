@@ -1,6 +1,6 @@
 image: Ubuntu2004 # образ для сборки
 
-stack: node 16  # окружение
+stack: node 19  # окружение
 
 branches:
   only:
